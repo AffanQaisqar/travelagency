@@ -5,7 +5,7 @@ Travel Destinations Website
 
 
 
-This website is created with my team member.I am a team leader Faraz Alam and other two members is Affan qaisar and masood kidwai
+This website is created with my team member. My team leader is Faraz Alam and we two members Affan qaisar farooqi and masood kidwai are his group members.
 
 Here's the detail about our final project
 
@@ -32,6 +32,6 @@ License:
 This project is licensed under the travel with dev license. Refer to the LICENSE file for more details.
 
 Contact:
-For any questions, feedback, or collaboration opportunities, please reach out to alamfaraz141@gmail.com.
+For any questions, feedback, or collaboration opportunities, please reach out to affanqaisar879@gmail.com.
 
 Explore the world of travel and adventure with our Travel Destinations Website!
